@@ -34,5 +34,5 @@
 
 - Метод delete добавлен для тестов. Реализовано асинхронное выполнение запросов к БД.
 
-![https://github.com/0End-Of-Light0/test_work_public/blob/main/test_preview.mp4](https://github.com/0End-Of-Light0/test_work_public/blob/main/test_preview.mp4)
-<video src='https://github.com/0End-Of-Light0/test_work_public/blob/main/test_preview.mp4' width=180/>
+![Видео с примером работы](https://github.com/0End-Of-Light0/test_work_public/blob/main/test_preview.mp4)
+
